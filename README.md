@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Srijeet Bhowmik
+# 👋 Hi, I’m Srijeet Kumar Bhowmik
 
 🌱 A 2nd-year Computer Science Engineering student passionate about AI, cloud, and sustainable tech.
 
